@@ -4,13 +4,21 @@ I am a mid-level mobile developer based in Bangkok, responsible for developing a
 ## About Me
 * 💼 I’m currently working on Krungsri nimble (KSN)
 * 🌱 I’m currently learning Rust language
-* 📫 How to reach me: chetsada.chaiprasop@gmail.com
+* 📫 How to reach me by [**email**](chetsada.chaiprasop@gmail.com)
 * 📄 My resume ...
 
 ## Tech Stack & Interests
 * Frontends: Xamarin, Flutter
 * Backends: Asp.net
 * Database: SQL
+* Language: C#, Rust, Python
+
+## Project Collaborated
+* Krungsri biz online (mobile application)
+
+## Personal Project
+> non-production project make for need only. 🖍
+* [**rust 101**](https://github.com/Oadyy/Rust) – Rust: for beginner, code fragment and poc project.
 
 <!--
 **Oadyy/Oadyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
