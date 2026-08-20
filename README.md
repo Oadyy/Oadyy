@@ -4,7 +4,7 @@ I am a mid-level mobile developer based in Bangkok, responsible for developing a
 ## About Me
 * 💼 I’m currently working on Krungsri nimble (KSN)
 * 🌱 I’m currently learning Rust language
-* 📫 How to reach me by [**email**](chetsada.chaiprasop@gmail.com)
+* 📫 Contact me by [email](mailto:chetsada.chaiprasop@gmail.com)
 * 📄 My resume ...
 
 ## Tech Stack & Interests
